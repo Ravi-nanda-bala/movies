@@ -1,1 +1,1 @@
-Deployed using Netlify : https://nostalgic-pasteur-c8b188.netlify.app/
+Live Demo: https://movies142.netlify.app/
